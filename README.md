@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akki</a> 👋</h1>
+<h1 align="center">Hi, I'm Aakash</a> 👋</h1>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akashnai&show_icons=true&locale=en" alt="akashnai" />
